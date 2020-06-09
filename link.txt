@@ -1,0 +1,1 @@
+https://node-red-nksfm.eu-gb.mybluemix.net/ui/
