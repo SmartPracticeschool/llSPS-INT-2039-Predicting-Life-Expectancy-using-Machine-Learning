@@ -1,1 +1,1 @@
-https://node-red-nksfm.eu-gb.mybluemix.net/ui/
+https://node-red-nksfm.eu-gb.mybluemix.net/ui/#!/0?socketid=7NDTlEv_QpVQw4ZmAAAA
